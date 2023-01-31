@@ -78,16 +78,12 @@ Going into my "write-access" properties to assign the "Domain Users" permissions
 
 Now that I've assigned permissions in the to the "Domain Users" I can share and close the window.
 
-<p>
 
-![Screen Shot 2023-01-30 at 11 42 33 PM (2)](https://user-images.githubusercontent.com/120864279/215675755-33e0c2c3-ee5d-44b1-a89e-58e2425b192b.png)
-
-Assigning permissions the "no-access" folder by adding "Domain Admins" to the share group and assign permissions of "Read/Write".
-  
 <p>
 
 ![Screen Shot 2023-01-30 at 11 48 55 PM (2)](https://user-images.githubusercontent.com/120864279/215676707-9776a5af-7875-4711-9af9-92cf52154f8e.png)
 
-Added "Domain Admins" to the group
+
+Assigning permissions the "no-access" folder by adding "Domain Admins" to the share group and assign permissions of "Read/Write".
 
 <p>
