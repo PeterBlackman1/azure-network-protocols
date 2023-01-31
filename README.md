@@ -50,3 +50,39 @@ Logging into Client-1 under this user account.
 
 <p>
 
+  ![Screen Shot 2023-01-30 at 11 25 24 PM (2)](https://user-images.githubusercontent.com/120864279/215673265-12f03e44-79ca-492b-a834-dbdc0f9a88fb.png)
+
+Created four folders on DC-1 in the C:\ drive. 
+
+<p>
+
+![Screen Shot 2023-01-30 at 11 29 40 PM (2)](https://user-images.githubusercontent.com/120864279/215673911-8cc4452f-9a75-4ba7-a130-389a44bd6fc5.png)
+
+Changing the permissions on the "read-access" folder to allow access to the "Domain Users" group.
+
+<p>
+ 
+![Screen Shot 2023-01-30 at 11 36 20 PM (2)](https://user-images.githubusercontent.com/120864279/215674763-6f54fee3-a75d-40a0-806b-42f5009560c8.png)
+
+Added the "Domain Users" to the group and now I'm able to click share.
+
+<p>
+
+![Screen Shot 2023-01-30 at 11 38 16 PM (2)](https://user-images.githubusercontent.com/120864279/215675083-9aa382ea-e035-4890-b9af-d348f35829f3.png)
+
+Going into my "write-access" properties to assign the "Domain Users" permissions to "Read/Write" 
+
+<p>
+
+![Screen Shot 2023-01-30 at 11 40 29 PM (2)](https://user-images.githubusercontent.com/120864279/215675460-2beecc0e-f8bb-464c-ab96-eafbf6fcc4a1.png)
+
+Now that I've assigned permissions in the to the "Domain Users" I can share and close the window.
+
+<p>
+
+![Screen Shot 2023-01-30 at 11 42 33 PM (2)](https://user-images.githubusercontent.com/120864279/215675755-33e0c2c3-ee5d-44b1-a89e-58e2425b192b.png)
+
+Assigning permissions the "no-access" folder by adding "Domain Users" to the share group and assign permissions of "Read/Write".
+  
+<p>
+
