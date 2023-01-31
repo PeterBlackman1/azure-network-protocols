@@ -30,3 +30,17 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
+
+![Screen Shot 2023-01-30 at 11 13 07 PM (2)](https://user-images.githubusercontent.com/120864279/215671542-2c6259dc-fae5-4499-bb5c-d513689d857e.png)
+
+Logged into my DC-1 as my domain account admin.
+
+<p>
+
+![Screen Shot 2023-01-30 at 11 16 05 PM (2)](https://user-images.githubusercontent.com/120864279/215671865-17a8af26-bb99-4fe4-9ebf-69344adc120d.png)
+
+
+Choose an account to log into in Client-1.
+
+<p>
+
