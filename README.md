@@ -87,3 +87,22 @@ Now that I've assigned permissions in the to the "Domain Users" I can share and 
 Assigning permissions the "no-access" folder by adding "Domain Admins" to the share group and assign permissions of "Read/Write".
 
 <p>
+  
+ ![Screen Shot 2023-01-30 at 11 54 28 PM (2)](https://user-images.githubusercontent.com/120864279/215677732-d3d30c4a-0f75-42fd-a8a2-736bbc4b9c84.png)
+
+Going to the shared folder that I created on DC-1 to test and see if I can access the folders I created.
+
+<p>
+
+![Screen Shot 2023-01-30 at 11 56 40 PM (2)](https://user-images.githubusercontent.com/120864279/215678019-5216295a-49b4-49f1-9550-9ed5de93cde0.png)
+
+Trying to access the "no-access" folder and was not able to due to permissions.
+
+<p>
+
+![Screen Shot 2023-01-30 at 11 58 06 PM (2)](https://user-images.githubusercontent.com/120864279/215678275-11bca547-da3a-4d96-8ac1-8ec384ba3609.png)
+
+Tried to create a file in the "read-access" folder and was denied due to permissions.
+
+<p>
+
