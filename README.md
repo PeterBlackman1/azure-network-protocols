@@ -106,3 +106,9 @@ Tried to create a file in the "read-access" folder and was denied due to permiss
 
 <p>
 
+  
+![Screen Shot 2023-01-31 at 12 04 04 AM (2)](https://user-images.githubusercontent.com/120864279/215679388-16dac0c1-25eb-4263-b6e6-1191215d3138.png)
+
+Created a text file in the "read-access" folder as an admin. When I logged back into Client-1 I was able to view and open the file.
+
+<p>
