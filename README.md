@@ -125,3 +125,19 @@ Adding an "ACCOUNTANTS" group to the security group that I created.
   
 <p>
   
+![Screen Shot 2023-01-31 at 12 18 20 AM (2)](https://user-images.githubusercontent.com/120864279/215681844-9aabb1db-9bba-47cc-8608-e9a9d0c128b8.png)
+
+After I created the "ACCOUNTANTS" group this is how my "_SECURITY_GROUP" will look.
+
+<p>
+
+![Screen Shot 2023-01-31 at 12 21 56 AM (2)](https://user-images.githubusercontent.com/120864279/215682699-d275f3c4-b4b5-41ef-9cf3-a4086b60d34e.png)
+
+Going into my "accountants" folder I created to assign permissions to the "ACCOUNTANTS"
+<p>
+
+![Screen Shot 2023-01-31 at 12 22 53 AM (2)](https://user-images.githubusercontent.com/120864279/215682748-294367bf-d84f-4300-9728-5dfb11870c4c.png)
+
+I assign the the "Read/Write" permissions to the "ACCOUNTANTS" group.
+
+<p>
