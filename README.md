@@ -44,3 +44,9 @@ Choose an account to log into in Client-1.
 
 <p>
 
+![Screen Shot 2023-01-30 at 11 19 11 PM (2)](https://user-images.githubusercontent.com/120864279/215672255-549b64de-0e5f-4f49-a3b7-3329562d10e1.png)
+
+Logging into Client-1 under this user account.
+
+<p>
+
