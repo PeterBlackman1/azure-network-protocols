@@ -148,4 +148,22 @@ Trying to access the "accounting" folder from Client-1 and it failed as expected
 
 <p>
 
+![Screen Shot 2023-01-31 at 12 31 19 AM (2)](https://user-images.githubusercontent.com/120864279/215684104-3379fa9d-10f3-4257-ac05-5c4ae7545495.png)
+
+Going into Active Directory in DC-1 to add the Client-1 user to the "ACCOUNTANTS" group.
+
+<p>
+
+![Screen Shot 2023-01-31 at 12 33 45 AM (2)](https://user-images.githubusercontent.com/120864279/215684512-8a86b291-1b78-4286-b014-227ce24380ca.png)
+
+Added the user account that I was using to sign into Client-1 to the "ACCOUNTANTS" group.
+
+<p>
+
+![Screen Shot 2023-01-31 at 12 36 24 AM (2)](https://user-images.githubusercontent.com/120864279/215684959-241e477a-eab0-4b44-a1fc-bc4cfeba217c.png)
+
+Signed back into Client-1 as the user account I was using.
+
+<p>
+
 
