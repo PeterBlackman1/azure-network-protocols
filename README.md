@@ -22,10 +22,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Network Security Groups
+- Change Network Security Groups
+- Create Security Rules
+- Work with Application Security Groups
 
 <h2>Actions and Observations</h2>
 
