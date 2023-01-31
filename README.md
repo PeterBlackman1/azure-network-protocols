@@ -112,3 +112,16 @@ Tried to create a file in the "read-access" folder and was denied due to permiss
 Created a text file in the "read-access" folder as an admin. When I logged back into Client-1 I was able to view and open the file.
 
 <p>
+
+![Screen Shot 2023-01-31 at 12 07 26 AM (2)](https://user-images.githubusercontent.com/120864279/215680279-0c66f2d3-728d-436d-b221-f7ba39389057.png)
+
+In DC-1 I'm creating a "_SECURITY_GROUPS" folder
+  
+<p>
+
+![Screen Shot 2023-01-31 at 12 09 08 AM (2)](https://user-images.githubusercontent.com/120864279/215680309-647d168d-808f-4578-aa86-e14cb9fd8a2e.png)
+
+Adding an "ACCOUNTANTS" group to the security group that I created.
+  
+<p>
+  
