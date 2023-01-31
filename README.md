@@ -166,4 +166,9 @@ Signed back into Client-1 as the user account I was using.
 
 <p>
 
+![Screen Shot 2023-01-31 at 12 54 26 AM (2)](https://user-images.githubusercontent.com/120864279/215688397-7c2cfcb4-7455-4f44-8ca5-6838e6f812e7.png)
+
+Logged back into the Client-1 user profile and went to the "accountant" folder. Now I have access into the folder.
+
+<p>
 
