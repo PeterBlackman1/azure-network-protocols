@@ -141,3 +141,11 @@ Going into my "accountants" folder I created to assign permissions to the "ACCOU
 I assign the the "Read/Write" permissions to the "ACCOUNTANTS" group.
 
 <p>
+
+ ![Screen Shot 2023-01-31 at 12 27 39 AM (2)](https://user-images.githubusercontent.com/120864279/215683480-d131a550-4ff5-4e7e-a7d9-17ddcb9c46aa.png)
+
+Trying to access the "accounting" folder from Client-1 and it failed as expected.
+
+<p>
+
+
